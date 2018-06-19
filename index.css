@@ -56,6 +56,9 @@ a{
 	line-height:82px;
 	margin-left:54px;
 }
+.nav li{
+	color:#000;
+}
 .nav-li a{
 	height: 78px;
 	border-bottom:4px solid #e8420a;
